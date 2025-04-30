@@ -24,8 +24,8 @@ This project explores IMDb’s Top 1000 Movies dataset using Microsoft Excel, Po
 
 ## 📊 Dataset Source
 
-The dataset used in this project was sourced from [Kaggle](https://www.kaggle.com/datasets/ashirwadsangwan/imdb-top-1000-movies).  
-All credit for the original dataset goes to its creator, Ashirwad Sangwan.
+The dataset used in this project was sourced from [Kaggle](https://www.kaggle.com/datasets/bansodesandeep/imdb-top-1000-movies).  
+All credit for the original dataset goes to its creator, Sandeep Bansode.
 
 ## 🧼 Tools & Techniques Used
 
