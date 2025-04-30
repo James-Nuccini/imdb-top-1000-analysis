@@ -32,7 +32,7 @@ All credit for the original dataset goes to its creator, Sandeep Bansode.
 - **Microsoft Excel**
 - **Power Query** (for genre splitting and transformations)
 - **Pivot Tables & Charts**
-- **Basic Excel Formulas** (`=INT(Year/10)*10` for decade grouping)
+- **Basic Excel Formulas** (`=INT(Release_Year/10)*10` for decade grouping)
 
 ## 🔍 Key Findings
 
