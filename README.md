@@ -1,3 +1,4 @@
+![Project Banner](Banner.png)
 
 # IMDb Top 1000 Movie Analysis
 
