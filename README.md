@@ -43,6 +43,12 @@ All credit for the original dataset goes to its creator, Sandeep Bansode.
 - Christopher Nolan had the highest average IMDb rating (min. 3 films).
 - No strong correlation between rating and vote count, but high-vote films tend to be well-rated.
 
+## Notes on Chart Design
+
+During a later Tableau course, I learned that trimming the y-axis in bar or line charts can sometimes lead to misleading impressions, especially if viewers aren't aware that the scale has been reduced. After reviewing my IMDb project, I recognize that the genre rating chart uses a y-axis that starts at 7.0 instead of 0.
+
+This was an intentional choice to highlight subtle differences between genres, as the dataset only includes top-rated movies with IMDb ratings between 7.8 and 9.3. A full 0–10 scale would have flattened all distinctions. I’ve noted this here to be transparent about the visualization approach and show that I’m always learning and evolving in best practices for data storytelling.
+
 ## 🧠 Author
 
 James Nuccini  
